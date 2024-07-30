@@ -18,7 +18,8 @@
     "unlimitedStorage",
     "contextMenus",
     "tts",
-    "identity"
+    "identity",
+    "tabs"
   ],
   "optional_permissions": [
     "https://*/*"

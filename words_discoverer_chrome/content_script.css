@@ -5,7 +5,8 @@
     height: 20px !important;
     min-height: 20px !important;
     max-height: 20px !important;
-    background-color: #4CAF50 !important; /* Green */
+    background-color: #4CAF50 !important;
+    /* Green */
     background: linear-gradient(to right, #4CAF50, #4CAF50) !important;
     color: white !important;
     display: block !important;
@@ -32,6 +33,7 @@
     border-width: 0px !important;
     vertical-align: baseline !important;
 }
+
 .wdAddButton:hover {
     background-color: #102310 !important;
     background: linear-gradient(to right, #102310, #102310) !important;
@@ -125,3 +127,6 @@
     line-height: 65% !important;
 }
 
+wdautohl-customtag {
+    visibility: visible !important;
+}
